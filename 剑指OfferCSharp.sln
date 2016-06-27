@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-用两个栈实现队列"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-旋转数组的最小数字", "6-旋转数组的最小数字\6-旋转数组的最小数字.csproj", "{A991AE79-45B7-48BF-815D-0B996D98C115}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-斐波那契数列", "7-斐波那契数列\7-斐波那契数列.csproj", "{12E11203-7DCC-467D-B252-73BD20E3668D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{A991AE79-45B7-48BF-815D-0B996D98C115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A991AE79-45B7-48BF-815D-0B996D98C115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A991AE79-45B7-48BF-815D-0B996D98C115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E11203-7DCC-467D-B252-73BD20E3668D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E11203-7DCC-467D-B252-73BD20E3668D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E11203-7DCC-467D-B252-73BD20E3668D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E11203-7DCC-467D-B252-73BD20E3668D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
