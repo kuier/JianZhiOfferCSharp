@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-数值的整数次方", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-调整数组顺序使奇数位于偶数前面", "12-调整数组顺序使奇数位于偶数前面\12-调整数组顺序使奇数位于偶数前面.csproj", "{A5A4251E-ED1F-4A40-9787-5BDBA1603A18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-链表中倒数第K个节点", "13-链表中倒数第K个节点\13-链表中倒数第K个节点.csproj", "{8773890D-2283-4D80-851E-0B70EDE91845}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{A5A4251E-ED1F-4A40-9787-5BDBA1603A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5A4251E-ED1F-4A40-9787-5BDBA1603A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5A4251E-ED1F-4A40-9787-5BDBA1603A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8773890D-2283-4D80-851E-0B70EDE91845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8773890D-2283-4D80-851E-0B70EDE91845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8773890D-2283-4D80-851E-0B70EDE91845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8773890D-2283-4D80-851E-0B70EDE91845}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
