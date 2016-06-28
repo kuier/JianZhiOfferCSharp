@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-合并两个排序的链
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-树的子树", "16-树的子树\16-树的子树.csproj", "{AD365824-67A8-46F2-8094-B4BABD9017B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-二叉树的镜像", "17-二叉树的镜像\17-二叉树的镜像.csproj", "{635E181D-D32E-4844-B76D-07A9CD830A0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{AD365824-67A8-46F2-8094-B4BABD9017B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD365824-67A8-46F2-8094-B4BABD9017B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD365824-67A8-46F2-8094-B4BABD9017B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635E181D-D32E-4844-B76D-07A9CD830A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635E181D-D32E-4844-B76D-07A9CD830A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635E181D-D32E-4844-B76D-07A9CD830A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635E181D-D32E-4844-B76D-07A9CD830A0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
