@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-旋转数组的最小数�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-斐波那契数列", "7-斐波那契数列\7-斐波那契数列.csproj", "{12E11203-7DCC-467D-B252-73BD20E3668D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-变态跳台阶", "8-变态跳台阶\8-变态跳台阶.csproj", "{27BDFB9E-4887-4B11-84AE-05DD5EDF257E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{12E11203-7DCC-467D-B252-73BD20E3668D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12E11203-7DCC-467D-B252-73BD20E3668D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12E11203-7DCC-467D-B252-73BD20E3668D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27BDFB9E-4887-4B11-84AE-05DD5EDF257E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BDFB9E-4887-4B11-84AE-05DD5EDF257E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BDFB9E-4887-4B11-84AE-05DD5EDF257E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BDFB9E-4887-4B11-84AE-05DD5EDF257E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
