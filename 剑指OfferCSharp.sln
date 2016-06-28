@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-变态跳台阶", "8-变�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-矩形覆盖", "9-矩形覆盖\9-矩形覆盖.csproj", "{F4335B4D-68C8-4FC3-8D26-A2842DC831D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-二进制中1的个数", "10-二进制中1的个数\10-二进制中1的个数.csproj", "{96C3B9DD-D5DC-4E95-9D34-C3881377FD09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F4335B4D-68C8-4FC3-8D26-A2842DC831D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4335B4D-68C8-4FC3-8D26-A2842DC831D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4335B4D-68C8-4FC3-8D26-A2842DC831D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96C3B9DD-D5DC-4E95-9D34-C3881377FD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C3B9DD-D5DC-4E95-9D34-C3881377FD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C3B9DD-D5DC-4E95-9D34-C3881377FD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C3B9DD-D5DC-4E95-9D34-C3881377FD09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
