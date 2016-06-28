@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-树的子树", "16-树�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-二叉树的镜像", "17-二叉树的镜像\17-二叉树的镜像.csproj", "{635E181D-D32E-4844-B76D-07A9CD830A0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-顺时针打印矩阵", "18-顺时针打印矩阵\18-顺时针打印矩阵.csproj", "{392D51FD-CAE5-467D-9BE5-339F1698F6F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{635E181D-D32E-4844-B76D-07A9CD830A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{635E181D-D32E-4844-B76D-07A9CD830A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{635E181D-D32E-4844-B76D-07A9CD830A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392D51FD-CAE5-467D-9BE5-339F1698F6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392D51FD-CAE5-467D-9BE5-339F1698F6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392D51FD-CAE5-467D-9BE5-339F1698F6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392D51FD-CAE5-467D-9BE5-339F1698F6F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
