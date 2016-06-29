@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-包含min函数的栈", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-栈的压入、弹出序列", "20-栈的压入、弹出序列\20-栈的压入、弹出序列.csproj", "{10205D44-7DFB-40DB-A8EC-D901F3C09D29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-从上往下打印二叉树", "21-从上往下打印二叉树\21-从上往下打印二叉树.csproj", "{C049E84E-8499-433E-8CA2-1BF509E9CDFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{10205D44-7DFB-40DB-A8EC-D901F3C09D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10205D44-7DFB-40DB-A8EC-D901F3C09D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10205D44-7DFB-40DB-A8EC-D901F3C09D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C049E84E-8499-433E-8CA2-1BF509E9CDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C049E84E-8499-433E-8CA2-1BF509E9CDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C049E84E-8499-433E-8CA2-1BF509E9CDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C049E84E-8499-433E-8CA2-1BF509E9CDFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
