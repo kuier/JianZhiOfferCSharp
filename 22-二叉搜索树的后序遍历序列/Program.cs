@@ -12,7 +12,7 @@ namespace _22_二叉搜索树的后序遍历序列
     {
         class Solution
         {
-            public bool VerifySquenceOfBST(int[] sequence)
+            public bool VerifySquenceOfBST1(int[] sequence)
             {
                 // write code here
                 //边界
@@ -59,6 +59,30 @@ namespace _22_二叉搜索树的后序遍历序列
                     right = VerifySquenceOfBST(rightInts);
                 }
                 return left && right;
+            }
+            /// <summary>
+            /// 正解
+            /// </summary>
+            /// <param name="sequence"></param>
+            /// <returns></returns>
+            public bool VerifySquenceOfBST(int[] sequence)
+            {
+                // write code here
+                if (sequence == null) return false;
+                if (sequence.Length == 0) return false;
+                if (sequence.Length == 1) return true;
+
+                int n = sequence.Length - 1;
+                int i = 0;
+                while (n > 0)
+                {
+                    while (sequence[i] < sequence[n]) i++;
+                    while (sequence[i] > sequence[n]) i++;
+                    if (i < n) return false;
+                    n--;
+                    i = 0;
+                }
+                return true;
             }
         }
         static void Main(string[] args)
