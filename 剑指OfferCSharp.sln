@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-从上往下打印二叉
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22-二叉搜索树的后序遍历序列", "22-二叉搜索树的后序遍历序列\22-二叉搜索树的后序遍历序列.csproj", "{654E74AA-4D9C-41B4-B2FC-04720D85FD53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-二叉树和为某一值得路径", "23-二叉树和为某一值得路径\23-二叉树和为某一值得路径.csproj", "{ADDC8A55-0F0F-4DB4-8914-2C4AC52CF96E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{654E74AA-4D9C-41B4-B2FC-04720D85FD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{654E74AA-4D9C-41B4-B2FC-04720D85FD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{654E74AA-4D9C-41B4-B2FC-04720D85FD53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDC8A55-0F0F-4DB4-8914-2C4AC52CF96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDC8A55-0F0F-4DB4-8914-2C4AC52CF96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDC8A55-0F0F-4DB4-8914-2C4AC52CF96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDC8A55-0F0F-4DB4-8914-2C4AC52CF96E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
