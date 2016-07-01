@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27-数组中出现次数超
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28-最小的k个数", "28-最小的k个数\28-最小的k个数.csproj", "{F619F79B-1BBD-4BE3-A153-DCE6EB4D49AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29-连续子数组的最大和", "29-连续子数组的最大和\29-连续子数组的最大和.csproj", "{96DFC6DC-E2F0-4D6B-8B89-638BF6196E4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{F619F79B-1BBD-4BE3-A153-DCE6EB4D49AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F619F79B-1BBD-4BE3-A153-DCE6EB4D49AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F619F79B-1BBD-4BE3-A153-DCE6EB4D49AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DFC6DC-E2F0-4D6B-8B89-638BF6196E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DFC6DC-E2F0-4D6B-8B89-638BF6196E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DFC6DC-E2F0-4D6B-8B89-638BF6196E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DFC6DC-E2F0-4D6B-8B89-638BF6196E4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
