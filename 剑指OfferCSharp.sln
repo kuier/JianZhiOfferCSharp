@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26-字符串的排列", "26
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27-数组中出现次数超过一半的数字", "27-数组中出现次数超过一半的数字\27-数组中出现次数超过一半的数字.csproj", "{50DA0B61-5A31-40A6-A3AA-AFFC63746005}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28-最小的k个数", "28-最小的k个数\28-最小的k个数.csproj", "{F619F79B-1BBD-4BE3-A153-DCE6EB4D49AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{50DA0B61-5A31-40A6-A3AA-AFFC63746005}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50DA0B61-5A31-40A6-A3AA-AFFC63746005}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50DA0B61-5A31-40A6-A3AA-AFFC63746005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F619F79B-1BBD-4BE3-A153-DCE6EB4D49AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F619F79B-1BBD-4BE3-A153-DCE6EB4D49AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F619F79B-1BBD-4BE3-A153-DCE6EB4D49AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F619F79B-1BBD-4BE3-A153-DCE6EB4D49AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
