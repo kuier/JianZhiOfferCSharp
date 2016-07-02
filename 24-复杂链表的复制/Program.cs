@@ -130,7 +130,11 @@ namespace _24_复杂链表的复制
                     pNode = pClone.next;
                 }
             }
-
+            /// <summary>
+            /// 这种思路有些问题
+            /// </summary>
+            /// <param name="pHead"></param>
+            /// <returns></returns>
             public RandomListNode ReConnectNode(RandomListNode pHead)
             {
                 RandomListNode cloneHead,cloneNode, node;
@@ -145,6 +149,15 @@ namespace _24_复杂链表的复制
                 }
                 //cloneHead = pHead.next;
                 return cloneNode;
+            }
+
+            public RandomListNode ReconnectNode(RandomListNode pHead)
+            {
+                RandomListNode cloneHead, cloneNode, node;
+                if (node != null)
+                {
+                    
+                }
             }
         }
         static void Main(string[] args)

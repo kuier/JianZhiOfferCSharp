@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29-连续子数组的最大
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30-从1到n整数中1出现的次数", "30-从1到n整数中1出现的次数\30-从1到n整数中1出现的次数.csproj", "{411CD096-895F-4459-BFF4-A8222FD8639F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31-把数组排成最小的数", "31-把数组排成最小的数\31-把数组排成最小的数.csproj", "{BA2F50A9-F68E-4D1D-9248-713BAC3F68F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{411CD096-895F-4459-BFF4-A8222FD8639F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{411CD096-895F-4459-BFF4-A8222FD8639F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{411CD096-895F-4459-BFF4-A8222FD8639F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2F50A9-F68E-4D1D-9248-713BAC3F68F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2F50A9-F68E-4D1D-9248-713BAC3F68F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2F50A9-F68E-4D1D-9248-713BAC3F68F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2F50A9-F68E-4D1D-9248-713BAC3F68F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
