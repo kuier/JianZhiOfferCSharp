@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31-把数组排成最小的
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32-丑数", "32-丑数\32-丑数.csproj", "{4C7167DE-1FA3-44F2-BD08-47637A598113}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33-第一个只出现一次的字符位置", "33-第一个只出现一次的字符位置\33-第一个只出现一次的字符位置.csproj", "{461FBB43-373E-4594-BE2C-8A7E19587898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{4C7167DE-1FA3-44F2-BD08-47637A598113}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C7167DE-1FA3-44F2-BD08-47637A598113}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C7167DE-1FA3-44F2-BD08-47637A598113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461FBB43-373E-4594-BE2C-8A7E19587898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461FBB43-373E-4594-BE2C-8A7E19587898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461FBB43-373E-4594-BE2C-8A7E19587898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461FBB43-373E-4594-BE2C-8A7E19587898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
