@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34-数组中的逆序对", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35-两个链表的第一个公共节点", "35-两个链表的第一个公共节点\35-两个链表的第一个公共节点.csproj", "{D96289F0-F54F-4A52-9908-6C98135B095F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36-数字在排序数组中出现的次数", "36-数字在排序数组中出现的次数\36-数字在排序数组中出现的次数.csproj", "{8365EA39-0539-4F0F-A9FF-14227A3C36E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{D96289F0-F54F-4A52-9908-6C98135B095F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D96289F0-F54F-4A52-9908-6C98135B095F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D96289F0-F54F-4A52-9908-6C98135B095F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8365EA39-0539-4F0F-A9FF-14227A3C36E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8365EA39-0539-4F0F-A9FF-14227A3C36E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8365EA39-0539-4F0F-A9FF-14227A3C36E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8365EA39-0539-4F0F-A9FF-14227A3C36E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
