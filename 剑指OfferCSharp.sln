@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33-第一个只出现一次
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34-数组中的逆序对", "34-数组中的逆序对\34-数组中的逆序对.csproj", "{73707432-CF90-4E63-8A83-6625B71E47EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35-两个链表的第一个公共节点", "35-两个链表的第一个公共节点\35-两个链表的第一个公共节点.csproj", "{D96289F0-F54F-4A52-9908-6C98135B095F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{73707432-CF90-4E63-8A83-6625B71E47EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73707432-CF90-4E63-8A83-6625B71E47EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73707432-CF90-4E63-8A83-6625B71E47EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96289F0-F54F-4A52-9908-6C98135B095F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96289F0-F54F-4A52-9908-6C98135B095F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96289F0-F54F-4A52-9908-6C98135B095F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96289F0-F54F-4A52-9908-6C98135B095F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
