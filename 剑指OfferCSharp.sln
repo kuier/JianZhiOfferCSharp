@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36-数字在排序数组中
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37-二叉树的深度", "37-二叉树的深度\37-二叉树的深度.csproj", "{705FEB9A-C75D-4072-812F-93F4BCD2BCE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38-平衡二叉树", "38-平衡二叉树\38-平衡二叉树.csproj", "{B5DA2A7B-B661-4945-A0A1-029D78FD457E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{705FEB9A-C75D-4072-812F-93F4BCD2BCE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{705FEB9A-C75D-4072-812F-93F4BCD2BCE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{705FEB9A-C75D-4072-812F-93F4BCD2BCE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5DA2A7B-B661-4945-A0A1-029D78FD457E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DA2A7B-B661-4945-A0A1-029D78FD457E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DA2A7B-B661-4945-A0A1-029D78FD457E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DA2A7B-B661-4945-A0A1-029D78FD457E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
