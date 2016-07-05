@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37-二叉树的深度", "37
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38-平衡二叉树", "38-平衡二叉树\38-平衡二叉树.csproj", "{B5DA2A7B-B661-4945-A0A1-029D78FD457E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39-数组中只出现一次的数字", "39-数组中只出现一次的数字\39-数组中只出现一次的数字.csproj", "{942C30FA-9B94-4774-B35D-C9EFBB8896EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{B5DA2A7B-B661-4945-A0A1-029D78FD457E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5DA2A7B-B661-4945-A0A1-029D78FD457E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5DA2A7B-B661-4945-A0A1-029D78FD457E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942C30FA-9B94-4774-B35D-C9EFBB8896EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942C30FA-9B94-4774-B35D-C9EFBB8896EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942C30FA-9B94-4774-B35D-C9EFBB8896EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942C30FA-9B94-4774-B35D-C9EFBB8896EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
