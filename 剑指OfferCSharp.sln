@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38-平衡二叉树", "38-�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39-数组中只出现一次的数字", "39-数组中只出现一次的数字\39-数组中只出现一次的数字.csproj", "{942C30FA-9B94-4774-B35D-C9EFBB8896EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40-和为S的连续正数序列", "40-和为S的连续正数序列\40-和为S的连续正数序列.csproj", "{93DB4329-CD1D-4BEF-8AA7-96FF09B4053D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{942C30FA-9B94-4774-B35D-C9EFBB8896EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{942C30FA-9B94-4774-B35D-C9EFBB8896EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{942C30FA-9B94-4774-B35D-C9EFBB8896EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93DB4329-CD1D-4BEF-8AA7-96FF09B4053D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DB4329-CD1D-4BEF-8AA7-96FF09B4053D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DB4329-CD1D-4BEF-8AA7-96FF09B4053D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DB4329-CD1D-4BEF-8AA7-96FF09B4053D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
