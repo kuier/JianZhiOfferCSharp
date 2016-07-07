@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41-和为s的两个序列",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42-左旋转字符串", "42-左旋转字符串\42-左旋转字符串.csproj", "{6DCACA88-1968-443E-BCA4-82EC2E4720E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43-翻转单词顺序", "43-翻转单词顺序\43-翻转单词顺序.csproj", "{E119FBF1-6395-4A6E-9AD9-37579902CCCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,10 @@ Global
 		{6DCACA88-1968-443E-BCA4-82EC2E4720E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DCACA88-1968-443E-BCA4-82EC2E4720E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DCACA88-1968-443E-BCA4-82EC2E4720E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E119FBF1-6395-4A6E-9AD9-37579902CCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E119FBF1-6395-4A6E-9AD9-37579902CCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E119FBF1-6395-4A6E-9AD9-37579902CCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E119FBF1-6395-4A6E-9AD9-37579902CCCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
