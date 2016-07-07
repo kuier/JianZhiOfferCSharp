@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44-扑克牌顺子", "44-�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45-孩子们的游戏(圆圈中最后剩下的数)", "45-孩子们的游戏(圆圈中最后剩下的数)\45-孩子们的游戏(圆圈中最后剩下的数).csproj", "{586931F0-8A87-4AFB-BAD2-1840249F83D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46-求1+2+3+...+n", "46-求1+2+3+...+n\46-求1+2+3+...+n.csproj", "{99147C88-1351-4101-8F82-2D43E34418C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +281,10 @@ Global
 		{586931F0-8A87-4AFB-BAD2-1840249F83D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{586931F0-8A87-4AFB-BAD2-1840249F83D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{586931F0-8A87-4AFB-BAD2-1840249F83D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99147C88-1351-4101-8F82-2D43E34418C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99147C88-1351-4101-8F82-2D43E34418C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99147C88-1351-4101-8F82-2D43E34418C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99147C88-1351-4101-8F82-2D43E34418C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
