@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45-孩子们的游戏(圆�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46-求1+2+3+...+n", "46-求1+2+3+...+n\46-求1+2+3+...+n.csproj", "{99147C88-1351-4101-8F82-2D43E34418C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47-不用加减乘除做加法", "47-不用加减乘除做加法\47-不用加减乘除做加法.csproj", "{6724084C-0112-4E10-B2DF-886D8D47069E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,10 @@ Global
 		{99147C88-1351-4101-8F82-2D43E34418C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99147C88-1351-4101-8F82-2D43E34418C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99147C88-1351-4101-8F82-2D43E34418C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6724084C-0112-4E10-B2DF-886D8D47069E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6724084C-0112-4E10-B2DF-886D8D47069E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6724084C-0112-4E10-B2DF-886D8D47069E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6724084C-0112-4E10-B2DF-886D8D47069E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
