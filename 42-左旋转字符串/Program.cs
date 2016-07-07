@@ -11,8 +11,34 @@ namespace _42_左旋转字符串
 
     class Program
     {
+        class Solution
+        {
+            /// <summary>
+            /// 注意返回值，为null还是空字符串
+            /// </summary>
+            /// <param name="str"></param>
+            /// <param name="n"></param>
+            /// <returns></returns>
+            public string LeftRotateString(string str, int n)
+            {
+                // write code here
+                //字符串长度
+                int strLength = str.Length;
+                if (strLength ==0)
+                {
+                    return "";
+                }
+                //从第几个开始
+                n = n%strLength;
+                str += str;
+                string result = str.Substring(n, strLength);
+                return result;
+            }
+        }
         static void Main(string[] args)
         {
+            Solution s = new Solution();
+            Console.WriteLine(s.LeftRotateString("abcdefg",2));
         }
     }
 }
